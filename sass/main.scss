@@ -1,0 +1,31 @@
+// Put any @imports here
+// See Readme for a list of supported ones
+@import "foundation";
+
+body {
+  background: #FFF000;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+.button {
+  color: blue;
+  background: #00ff00;
+  height: 450px;
+  width: 450px;
+  margin-left: 33%;
+  margin-top: 10%;
+  padding: 0;
+  vertical-align: middle;
+  border: 8px solid red;
+  border-radius: 30px;
+  font-size: 4em;
+  font-style: bold;
+  font-family: 'Lobster', cursive;
+
+
+
+}
