@@ -6405,6 +6405,7 @@ body {
   border-radius: 30px;
   font-size: 4em;
   font-style: bold;
-  font-family: 'Lobster', cursive; }
+  font-family: "Lobster", cursive;
+  outline: none; }
 
 /*# sourceMappingURL=main.css.map */
